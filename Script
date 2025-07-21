@@ -1,0 +1,3 @@
+--Copy the Script below for GAG Dupe!
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/QuikDupe/DupeV2.5/refs/heads/main/Dupe"))()
