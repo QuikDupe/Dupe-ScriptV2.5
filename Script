@@ -1,3 +1,7 @@
 --Copy the Script below for GAG Dupe!
-
+--Delta is not working right now wait for Update!#
+--Recommended Executors:
+--Ios: Arceus X, KRNL
+--Android: Arceus X, KRNL
+--Script:
 loadstring(game:HttpGet("https://raw.githubusercontent.com/QuikDupe/DupeV2.5/refs/heads/main/Dupe"))()
